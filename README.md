@@ -18,5 +18,4 @@ npx --yes serve .
 ## Contact
 
 - Email: balaraje2@gmail.com
-- Phone: (973) 914-3113
 - Location: Melissa, TX
